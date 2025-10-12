@@ -17,7 +17,7 @@ S3RL – Separable Spatial Single-cell Transcriptome Representation Learning via
    T6_L-R_pairs
 
 .. image:: ../model_structure.jpg
-   :width: 600
+   :width: 1000
 
 
 News
@@ -40,5 +40,6 @@ Citation
 ========
 Fu, Laiyi, Wenkai Cui, Yifan Chen, Danyang Wu* and Hequan Sun*.  
 *stCAMBL: Biased Multi-view Contrastive Learning with Attentive Masking for Spatial Transcriptomic Analysis.* *in review*, 2025.
+
 
 
