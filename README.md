@@ -1,1 +1,1 @@
-# MaPGCL_tutorial
+# stCAMBL_tutorial
