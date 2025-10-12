@@ -1,9 +1,9 @@
-.. S3RL documentation master file, created by
+.. stCAMBL documentation master file, created by
    sphinx-quickstart on Wed Apr 16 19:43:51 2025.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-S3RL – Separable Spatial Single-cell Transcriptome Representation Learning via Graph Transformer and Hyperspherical Prototype Clustering
+stCAMBL – Biased Multi-view Contrastive Learning with Attentive Masking for Spatial Transcriptomic Analysis
 =============================================================================
 
 .. toctree::
@@ -22,7 +22,7 @@ S3RL – Separable Spatial Single-cell Transcriptome Representation Learning via
 
 News
 ========
-2025.04.10 S3RL is now available on GitHub at https://github.com/AI4Bread/stCAMBL.  
+2025.04.10 stCAMBL is now available on GitHub at https://github.com/AI4Bread/stCAMBL.  
 stCAMBL is implemented based on PyTorch Geometric (pyG) and supports efficient training and flexible batch processing for large-scale spatial transcriptomics datasets.  
 
 The model provides enhanced spatial representation learning through the use of a Graph Transformer architecture and hyperspherical prototype clustering for clear domain separation.  
@@ -40,6 +40,7 @@ Citation
 ========
 Fu, Laiyi, Wenkai Cui, Yifan Chen, Danyang Wu* and Hequan Sun*.  
 *stCAMBL: Biased Multi-view Contrastive Learning with Attentive Masking for Spatial Transcriptomic Analysis.* *in review*, 2025.
+
 
 
 
