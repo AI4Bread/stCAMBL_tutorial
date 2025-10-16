@@ -64,7 +64,7 @@ html_theme_options = {
     "style_external_links": True,
     "vcs_pageview_mode": "blob",  # 必须是 "blob"
     "navigation_with_keys": False,
-    "github_url": "https://github.com/AI4Bread/MGAPCL",
+    "github_url": "https://github.com/AI4Bread/stCAMBL_tutorial",
 }
 
 html_context = {
