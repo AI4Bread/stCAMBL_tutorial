@@ -19,7 +19,7 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 # -- Project information -----------------------------------------------------
 
-project = 'stCAMBL_tutorial'
+project = 'stCAMBL'
 copyright = '2025, AI4BREAD'
 author = 'Laiyi Fu, Wenkai Cui & Yifan Chen etc.'
  
