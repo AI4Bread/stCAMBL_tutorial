@@ -10,11 +10,11 @@ stCAMBL – Biased Multi-view Contrastive Learning with Attentive Masking for Sp
    :maxdepth: 1
 
    Installation_pyG
-   Tutorial-DLPFC
-   Tutorial-Nanostring
-   Tutorial-Mouse_Brain_Anterior
-   Tutorial-Human_Breast_Cancer
-   T6_L-R_pairs
+   DLPFC
+   Hippocampus
+   Nanostring
+   Human Breast
+   Mouse embryo Stereo-seq
 
 .. image:: ../model_structure.jpg
    :width: 1000
