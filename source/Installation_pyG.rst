@@ -19,7 +19,7 @@ Software Dependencies
 Installation
 ------------
 
-Download the S3RL code from GitHub: https://github.com/AI4Bread/stCAMBL, clone the repository with the following command:
+Download the stCAMBL code from GitHub: https://github.com/AI4Bread/stCAMBL, clone the repository with the following command:
 
 .. code-block:: bash
 
