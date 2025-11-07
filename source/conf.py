@@ -9,11 +9,6 @@
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
-#
-# import os
-# import sys
-# sys.path.insert(0, os.path.abspath('.'))
-
 import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
@@ -62,7 +57,7 @@ html_static_path = ['_static']
 html_theme_options = {
     "display_version": True,
     "style_external_links": True,
-    "vcs_pageview_mode": "blob",  # 必须是 "blob"
+    "vcs_pageview_mode": "blob",  
     "navigation_with_keys": False,
     "github_url": "https://github.com/AI4Bread/stCAMBL_tutorial",
 }
@@ -72,6 +67,6 @@ html_context = {
     "github_user": "AI4Bread",
     "github_repo": "stCAMBL_tutorial",
     "github_version": "main/",
-    "conf_py_path": "source/",  # 注意这里是你 notebook 文件所在的相对路径
+    "conf_py_path": "source/",  
 
 }
