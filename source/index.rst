@@ -11,8 +11,8 @@ stCAMBL – Biased Multi-view Contrastive Learning with Attentive Masking for Sp
 
    Installation_pyG
    DLPFC
-   Mouse embryo Stereo-seq
-   Human Breast
+   Mouse_anterior_posterior_brain_merged
+   Mouse Embryo
    Hippocampus
    Nanostring
 
